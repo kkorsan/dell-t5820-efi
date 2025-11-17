@@ -40,8 +40,11 @@ I suggest to use a secondary drive as I consider it a better practice.
 
 -
  \ System Configuration /
+ 
 -- Decoding Above 4G for I/O [Enabled]
+
 -- SATA Operations [AHCI]
 
  \ Virtualization Support /
+ 
 -- Intel Virtualization Technology [Disabled]
